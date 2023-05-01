@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "# Images"
+echo "# Lux Items"
 
 echo ""
 
